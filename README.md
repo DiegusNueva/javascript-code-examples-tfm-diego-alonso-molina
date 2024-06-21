@@ -45,7 +45,7 @@ Este repositorio contiene ejemplos de código JavaScript diseñados para ilustra
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/usuario/repositorio.git
+    git clone https://github.com/DiegusNueva/javascript-code-examples-tfm-diego-alonso-molina.git
     ```
 2. Navega a la carpeta del ejemplo que deseas revisar.
 3. Abre los archivos en tu editor de código preferido para explorar y ejecutar los ejemplos.
